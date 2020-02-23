@@ -11,7 +11,7 @@ root = tk.Tk()
 
 pic = PhotoImage(file = "C://Users//rohit//Documents//GitHub//Cryptographic-Algorithms//images.png")
 root.iconphoto(False,pic)
-root.title("Text Encryptor")
+root.title("Text Encryptor-Decryptor")
 
 root.geometry("400x500")
 root.resizable(width=FALSE, height=FALSE)
